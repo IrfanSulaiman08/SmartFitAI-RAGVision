@@ -1,0 +1,10 @@
+.stChatMessage.user {
+    background-color: #f7f7f8;
+    border-radius: 10px;
+    padding: 8px;
+}
+.stChatMessage.assistant {
+    background-color: #e8f0fe;
+    border-radius: 10px;
+    padding: 8px;
+}

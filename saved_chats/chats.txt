@@ -1,0 +1,29 @@
+user: What muscles are used in squats?
+assistant: 
+Context:
+After strength training exercises such as squats and push-ups,
+the body requires protein for muscle repair and recovery.
+
+Recommended protein sources include eggs, chicken, fish,
+paneer, lentils, soy products, milk, and nuts.
+
+Carbohydrates such as rice, oats, and fruits help restore
+energy levels after workouts.
+
+Drinking sufficient water is essential to avoid dehydration.
+
+
+
+Question:
+What muscles are used in squats?
+
+Answer:
+The following muscles are found in the leg muscles:
+There are four different types of muscles:
+The dorsolateral and lateral muscles are used to work out the strength of your upper back.
+The lower back is used to work out your body's strength of your lower back.
+The upper back is used to work out your body's strength of your lower back.
+The upper back is used to work out your body's strength of your lower back.
+The upper back is used to work out your body's strength of your lower back.
+
+---

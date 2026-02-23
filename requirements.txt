@@ -1,0 +1,13 @@
+streamlit
+opencv-python
+mediapipe
+numpy
+pandas
+tensorflow
+scikit-learn
+torch
+transformers
+sentence-transformers
+langchain
+faiss-cpu
+
